@@ -1,0 +1,6 @@
+stages:
+  rand:
+    cmd: python rand.py
+    metrics:
+    - metrics.json:
+        cache: false

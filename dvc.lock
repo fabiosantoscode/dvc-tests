@@ -1,0 +1,5 @@
+rand:
+  cmd: python rand.py
+  outs:
+  - path: metrics.json
+    md5: 1026a607d31ed0fd78eb7481e42052d4
