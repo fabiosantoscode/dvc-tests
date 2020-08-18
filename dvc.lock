@@ -2,4 +2,4 @@ rand:
   cmd: python rand.py
   outs:
   - path: metrics.json
-    md5: 90228339d1c911623c1c2b7467a4b202
+    md5: 00979d33351494ca7c31e515fa59baa2
